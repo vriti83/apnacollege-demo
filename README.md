@@ -1,3 +1,3 @@
 # apnacollege-demo
 <br>
-Author - Vritika Bansal
+Author - Vritika Bansal (PEC CHD)
